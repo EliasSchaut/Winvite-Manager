@@ -4,7 +4,7 @@
   "description": "A website manager for creating invites for events",
   "main": "src/index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "node ."
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/EliasSchaut/untitled-event-inviter#readme",
   "devDependencies": {
+    "@tsconfig/node16": "^1.0.3",
     "typescript": "^4.7.4"
   }
 }
