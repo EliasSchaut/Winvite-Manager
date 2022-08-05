@@ -1,0 +1,22 @@
+{
+  "name": "untitled-event-inviter",
+  "version": "1.0.0-beta",
+  "description": "A website manager for creating invites for events",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliasSchaut/untitled-event-inviter.git"
+  },
+  "author": "Elias Lorenz Schaut",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/EliasSchaut/untitled-event-inviter/issues"
+  },
+  "homepage": "https://github.com/EliasSchaut/untitled-event-inviter#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
