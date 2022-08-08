@@ -1,2 +1,2 @@
-# untitled-event-inviter
+# Winvite
 WIP
