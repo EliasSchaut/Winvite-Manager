@@ -12,7 +12,7 @@ Clientside (winvite part):
 Serverside (management part):
 * solid mvc server backend with [nestJS](https://nestjs.com/) paired with [nodeJS](https://nodejs.org/) and [express](https://expressjs.com/)
 * straight forward winvite creation with instant view opportunity powered by [vite](https://vitejs.dev/)
-* view and edit the all registered guests with all details of your winvite
+* view and edit all registered guests with all details of your winvite
 * account autorisation to privacy the sesible data of your winvites
 
 ### Demo
@@ -20,7 +20,7 @@ There is already a first [demo](https://github.com/EliasSchaut/Winvite-Demo) for
 
 ## Misc
 ### Cloud
-The source code will be open for everybody. However there will be monetised option, that will host the project for you and will give you your own ssl encrypted subdomain of winvite.site for all of your winvites.
+The source code will be open for everybody. However there will be a monetised option, that will host the project for you and will give you your own ssl encrypted subdomain of winvite.site for all of your winvites.
 
 ### Trivia
 Winvite can also be interpreted as **invite** who **win**s the **invite**d which uses [**vite**](https://vitejs.dev/) to **win** also the **invite**r.\
