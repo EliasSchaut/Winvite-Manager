@@ -1,7 +1,7 @@
 # Winvite Manager (WIP)
 Web-Invite Manager or short Winvite Manager will be an overengineered full stack management tool to create public available invites as website which include the following features:
 
-Clientside (invite part):
+Clientside (winvite part):
 * modern ui made with [Bootstrap](https://getbootstrap.com/) delivered as fast single site application powered by [Vue](https://vuejs.org/)
 * enough possibilities (video, pictures, just text) to display all features of the advertised event
 * a form with which users can register directly into the winwite. It will also be possible to sign up as a helper (helper system included)
